@@ -1,0 +1,8 @@
+{
+  "uuid": "per-app-volume@utsu",
+  "name": "Per-App Volume Mixer",
+  "description": "Sliders par application (sink-inputs) via pactl. Icônes d’app, kill, auto-refresh.",
+  "version": 2,
+  "shell-version": ["43", "44", "45", "46", "47"],
+  "url": "https://github.com/Utsukushii42/per-app-volume-gnome"
+}
