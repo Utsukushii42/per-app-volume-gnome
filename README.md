@@ -1,6 +1,3 @@
-Parfait — voilà un **README.md** propre et prêt pour GitHub.
-Je l’ai écrit en français (ton repo est FR) et il reste court, clair, avec toutes les commandes utiles.
-
 ---
 
 # Per-App Volume Mixer (GNOME)
