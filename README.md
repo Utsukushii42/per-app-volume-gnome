@@ -1,3 +1,4 @@
+
 ---
 
 # Per-App Volume Mixer (GNOME)
@@ -101,6 +102,3 @@ make install   # pack + install
 [MIT](./LICENSE)
 
 ---
-
-Tu peux copier-coller ça directement dans `README.md`.
-Tu veux que je te génère aussi un **CHANGELOG.md** + un **tag v2.0.0** avec `gh release create` ?
