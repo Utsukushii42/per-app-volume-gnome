@@ -6,8 +6,6 @@
 Contrôlez le **volume par application** directement depuis la barre GNOME.
 Interface compacte, **icônes d’app**, **auto-refresh**, et bouton **✕** pour couper un flux.
 
-![screenshot](./images/screenshot.png) <!-- Remplace par ta capture -->
-
 ## Fonctionnalités
 
 * 🎚️ **Slider par application** (PipeWire/Pulse via `pactl`)
@@ -30,7 +28,7 @@ Interface compacte, **icônes d’app**, **auto-refresh**, et bouton **✕** pou
 
 ```bash
 # cloner
-git clone https://github.com/<ton-user>/per-app-volume-gnome.git
+git clone https://github.com/Utsukushii42/per-app-volume-gnome.git
 cd per-app-volume-gnome
 
 # packer et installer localement
